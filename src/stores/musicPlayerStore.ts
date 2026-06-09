@@ -66,7 +66,7 @@ class MusicPlayerStore {
 			duration: 0,
 			volume: 0.7,
 			isMuted: false,
-			isShuffled: false,
+			isShuffled: true,
 			isRepeating: 0,
 			showPlaylist: false,
 			errorMessage: "",
