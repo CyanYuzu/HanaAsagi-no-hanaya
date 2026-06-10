@@ -43,6 +43,31 @@
   font-display: swap;
 }
 
+/* 导入 霞鹜文楷等宽 字体 */
+@font-face{
+  font-family: "霞鹜文楷等宽";
+  src: url("/assets/font/LXGWWenKaiMono-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face{
+  font-family: "霞鹜文楷等宽";
+  src: url("/assets/font/LXGWWenKaiMono-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face{
+  font-family: "霞鹜文楷等宽";
+  src: url("/assets/font/LXGWWenKaiMono-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
 /* 确保平滑滚动，并稳定滚动条宽度以避免布局左右抖动 */
 html {
   scroll-behavior: smooth;
