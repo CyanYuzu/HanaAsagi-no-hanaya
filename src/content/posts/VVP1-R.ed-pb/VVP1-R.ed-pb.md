@@ -4,7 +4,8 @@ title: "[无端未授权汉化]VIVID VOICE PARTY"
 published: 2026-06-10
 description: 无端未授权汉化发布
 image: ./images/cover.png
-tags: [Roasting, ボイロ]
+tags: [ボイロ]
+category: Roasting
 
 ---
 
