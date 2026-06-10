@@ -4,16 +4,10 @@ export const fullscreenWallpaperConfig: FullscreenWallpaperConfig = {
 	enable: false,
 	src: {
 		desktop: [
-			"/assets/desktop-banner/1.webp",
-			"/assets/desktop-banner/2.webp",
-			"/assets/desktop-banner/3.webp",
-			"/assets/desktop-banner/4.webp",
+			"/assets/desktop-banner/FutabaMinato.png",
 		],
 		mobile: [
-			"/assets/mobile-banner/1.webp",
-			"/assets/mobile-banner/2.webp",
-			"/assets/mobile-banner/3.webp",
-			"/assets/mobile-banner/4.webp",
+			"/assets/mobile-banner/FutabaMinato.png",
 		],
 	},
 	position: "center",
@@ -24,7 +18,7 @@ export const fullscreenWallpaperConfig: FullscreenWallpaperConfig = {
 	zIndex: -1,
 	opacity: 0.8,
 	blur: 1,
-	switchable: false,
+	switchable: true,
 	overlay: {
 		opacity: 0.8, // 壁纸不透明度，0-1
 		blur: 1.5, // 背景模糊半径（px）
