@@ -9,6 +9,14 @@
 
 ---
 
+## About Contents
+
+作为个人博客，主要分享一些个人汉化、合成音声制作相关收获、平庸甚至愚钝的数学学生的收获等。
+
+目前正在进行VIVID VOICE PARTY 的烤制。
+
+---
+
 ## To Contact Me  
 
 不是很喜欢盯着社交账号看。
@@ -22,5 +30,3 @@ cyanyuzu@qq.com
 ---
 
 This website is built with the **Astro** framework using the [Mizuki](https://github.com/LyraVoid/Mizuki) theme.
-
-::github{repo="LyraVoid/Mizuki"}
