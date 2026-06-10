@@ -1,5 +1,10 @@
 @reference "tailwindcss";
 
+/* 文章内容直接使用系统无衬线字体 */
+.prose {
+  font-family: sans-serif;
+}
+
 .custom-md {
   h1 {
     @apply text-3xl;

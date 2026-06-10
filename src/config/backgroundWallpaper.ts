@@ -1,7 +1,7 @@
 import type { FullscreenWallpaperConfig } from "../types/config";
 
 export const fullscreenWallpaperConfig: FullscreenWallpaperConfig = {
-	enable: false,
+	enable: true,
 	src: {
 		desktop: [
 			"/assets/desktop-banner/FutabaMinato.png",
