@@ -1,20 +1,5 @@
 @reference "tailwindcss";
 
-/* 文章内容使用自定义字体 */
-.prose {
-  font-family: "霞鹜文楷等宽", sans-serif;
-}
-
-/* 标题自动用粗体 */
-.prose h1, .prose h2 {
-  font-weight: 700; /* 自动使用 Bold 文件 */
-}
-
-/* 正文用常规 */
-.prose p {
-  font-weight: 400; /* 自动使用 Regular 文件 */
-}
-
 .custom-md {
   h1 {
     @apply text-3xl;
