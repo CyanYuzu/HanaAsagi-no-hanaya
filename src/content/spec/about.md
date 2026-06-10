@@ -1,6 +1,5 @@
 
-## About Me
-
+## About Me  
 
 数学系本科在读。
 
@@ -10,8 +9,7 @@
 
 ---
 
-## To Contact Me
-
+## To Contact Me  
 
 不是很喜欢盯着社交账号看。
 
