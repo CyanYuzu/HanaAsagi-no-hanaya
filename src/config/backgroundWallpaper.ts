@@ -4,10 +4,10 @@ export const fullscreenWallpaperConfig: FullscreenWallpaperConfig = {
 	enable: true,
 	src: {
 		desktop: [
-			"/assets/desktop-banner/FutabaMinato.png",
+			"/assets/desktop-banner/FutabaMinato.webp",
 		],
 		mobile: [
-			"/assets/mobile-banner/FutabaMinato.png",
+			"/assets/mobile-banner/FutabaMinato.webp",
 		],
 	},
 	position: "center",

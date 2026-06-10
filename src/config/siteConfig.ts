@@ -108,10 +108,10 @@ export const siteConfig: SiteConfig = {
 		// 支持单张图片或图片数组，当数组长度 > 1 时自动启用轮播
 		src: {
 			desktop: [
-				"/assets/desktop-banner/FutabaMinato.png",
+				"/assets/desktop-banner/FutabaMinato.webp",
 			], // 桌面横幅图片
 			mobile: [
-				"/assets/mobile-banner/FutabaMinato.png",
+				"/assets/mobile-banner/FutabaMinato.webp",
 			], // 移动横幅图片
 		}, // 使用本地横幅图片
 
@@ -183,8 +183,7 @@ export const siteConfig: SiteConfig = {
 	generateOgImages: false, // 启用生成OpenGraph图片功能,注意开启后要渲染很长时间，不建议本地调试的时候开启
 	favicon: [
 		{
-			src: '/favicon/icon.png',
-			theme: 'light',
+			src: '/favicon/favicon.ico',
 			sizes: '32x32',
 		}
 		// 留空以使用默认 favicon
