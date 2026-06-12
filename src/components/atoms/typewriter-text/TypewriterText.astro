@@ -170,6 +170,7 @@ const textData = Array.isArray(text) ? JSON.stringify(text) : text;
 		min-height: 1.5em; /* 确保即使没有文字也保持最小高度 */
 		display: inline-block;
 		vertical-align: baseline;
+		white-space: pre-line; /* 支持 \n 换行 */
 	}
 
 	/* 确保打字机效果不会导致布局抖动 */
