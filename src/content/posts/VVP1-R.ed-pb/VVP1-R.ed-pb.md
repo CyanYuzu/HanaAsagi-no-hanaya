@@ -9,9 +9,12 @@ category: Roasting
 
 ---
 
-# 注意事项
+---
+
+# 注意
 
 - CyanYuzu个人无端未授权汉化
+- 请支持原作 **VIVID VOICE PARTY** 及原作者
 - 仅供学习交流使用 切勿用作商业用途
 - 下载后请在24小时内删除
 
@@ -19,7 +22,7 @@ category: Roasting
 
 # 目录
 
-0. Illustrations
+0. ILLUSTRATIONS
 1. COMIC きりたんのノットトレジャーハンター
 2. COMIC 教えてずんだもん！おやつがずんだ餅にならない方法！
 3. COMIC 結月さんちの足立さん
@@ -34,14 +37,15 @@ category: Roasting
 「クーロンホステル前酒場の朝餉」
 12. COMIC かりかりコンビのその後
 13. COMIC 満天にひとつ
+14. INDEX & COMMENT
 
 ---
 
-# 下载链接
+# 下载
 
-提取密码：琴叶姐妹的生日(4位数字)
+下载链接: https://kurio.infini-cloud.net/share/136199df53034a08
 
-https://kurio.infini-cloud.net/share/136199df53034a08
+提取密码: 琴叶姐妹的生日(4位数字)
 
 ---
 
